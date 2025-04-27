@@ -8,11 +8,10 @@ The game also includes **3 difficulty settings** to challenge players of all ski
 
 ## Features
 
-- 🎮 Classic 3x3 Tic-Tac-Toe gameplay
+- 🎮 Classic 3x3 Tic-Tac-Toe gameplay, with a new twist!
 - 🌀 Unique twist rules or bonus mechanics (customizable)
-- 🤖 Optional AI opponent (coming soon / implemented if applicable)
+- 🤖 Play against CPU or another player!
 - 💻 Simple and clean Python code structure
-- 🎨 Future plans for a graphical interface (optional)
 
 ## Getting Started
 
