@@ -3,6 +3,8 @@
 Welcome to **TicTacToeTwist** — a fun twist on the classic game of Tic-Tac-Toe!
 
 This project adds new features, creative gameplay variations, and improved design elements to make Tic-Tac-Toe even more exciting.
+In this version, when you make your **fourth move**, your **first move gets deleted**, forcing you to rethink your strategy!  
+The game also includes **3 difficulty settings** to challenge players of all skill levels, and a 2 player mode.
 
 ## Features
 
